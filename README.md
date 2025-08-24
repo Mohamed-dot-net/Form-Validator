@@ -1,7 +1,6 @@
 ## Project Structure
 
-- `index.html`: Main HTML file for the assignment
-- `Capture.PNG`: Screenshot or image related to the assignment
+- `index.html`: Main HTML file for the project
 
 ## How to Use
 
